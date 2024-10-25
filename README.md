@@ -18,6 +18,19 @@ I may have already forgotten most of what I did with.
 
 [![Distant past stack](https://skillicons.dev/icons?i=eclipse,c,dotnet,go,jenkins,js,qt,rails,ruby,)](https://skillicons.dev)
 
+## Stats
+
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=saschpe&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=saschpe&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=saschpe&show_icons=true" />
+</picture>
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=saschpe&layout=compact&langs_count=8&card_width=320&theme=dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=saschpe&layout=compact&langs_count=8&card_width=320" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saschpe&layout=compact&langs_count=8&card_width=320" />
+</picture>
+
 
 <!--
 **saschpe/saschpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
