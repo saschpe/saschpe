@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a freelance IT architect focussed on native mobile, cloud-native and IT security.
+I am a freelance IT architect focussed on native mobile, cloud-native and cybersecurity.
 
 ## Tech Stack
 
