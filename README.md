@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a freelance IT architect focussed on native mobile, cloud-native and cybersecurity.
+I am a freelance IT architect focussed on native mobile, cloud-native and cybersecurity. Certified: LF CKAD + KCNA ‧ AWS CCP ‧ ISC2 CC
 
 ## Tech Stack
 
