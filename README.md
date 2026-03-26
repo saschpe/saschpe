@@ -2,7 +2,7 @@
 
 I am a freelance IT architect focussed on native mobile, cloud-native and cybersecurity.
 
-__Certified: LF CKAD + KCNA + KCSA + ICA ‧ AWS CCP ‧ ISC2 CC__
+__Certified: LF [CKAD](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/ee816e60-dd89-4a56-a427-0b14000d49ea-sascha-peilicke-7951b0b2-39e5-411f-88d8-cabc539f14d1-certificate.pdf) + [KCNA](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/ee816e60-dd89-4a56-a427-0b14000d49ea-sascha-peilicke-e1e36d39-3e04-4e8c-a6e5-1920bf632906-certificate.pdf) + [KCSA](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/ee816e60-dd89-4a56-a427-0b14000d49ea-sascha-peilicke-53dc79ee-37e9-4c4a-ab3d-9cd5ec2edae6-certificate.pdf) + [ICA](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/ee816e60-dd89-4a56-a427-0b14000d49ea-sascha-peilicke-16e9f477-6797-4ad3-94e7-35dd601d715a-certificate.pdf) ‧ AWS [CCP](https://cp.certmetrics.com/amazon/en/public/verify/credential/0532eb5226fb49e5ba8891d5247fe235) ‧ ISC2 CC__
 
 ## Tech Stack
 
